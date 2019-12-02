@@ -19,7 +19,8 @@
   }
   
   h1#logo {
-  
+    height: 35px;
+    width: 35px;
   }
   
   h2#logo {
