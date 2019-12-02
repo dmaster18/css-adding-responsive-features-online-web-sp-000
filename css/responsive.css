@@ -53,7 +53,8 @@
     float: none;
   }
   
-  .border-right: 0;
+  .wrapper {border-right: 0;}
+  
   
   
   
