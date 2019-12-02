@@ -39,7 +39,9 @@
 }
 
 @media only and (max-width: 750px) {
-  #na
+  #navbar nav a {
+    font-size: 0.9em;
+  }
   
   
 }
