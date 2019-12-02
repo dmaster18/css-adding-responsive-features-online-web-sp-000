@@ -33,6 +33,9 @@
   
   col-3 p {
     column-count: 2;
+    column-gap: 1.5em;
+  -moz-column-count: 3;
+  -webkit-column-count: 3;
   }
 }
 
